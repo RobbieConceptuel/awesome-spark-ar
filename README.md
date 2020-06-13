@@ -31,6 +31,7 @@ Suggestions and contributions are always welcome! Make sure to read the [contrib
 - [Patch of The Week by Udart](https://www.youtube.com/playlist?list=PLOVM-k-hXv_-QWrlzytKd0d_01SqfKK9E) - Every week Udart takes an in depth look at a patch. Some of the patches are built in, some are available for free download.
 - [Perlin Noise and Distortion in Spark AR](https://www.youtube.com/watch?v=1do5R7UDuxI&t=50s) - Learn how to apply a Perlin noise trick to distort images.
 - [Sohail Mehra's Scripting Series](https://www.youtube.com/playlist?list=PLJv_JJoMJYP_909N_xILwEXvbBJWLEp7r) - Tutorial Series on how to create effects using Scripting in JavaScript.
+-[Tutorials in French playlist] (https://www.youtube.com/playlist?list=PL8TpfiR7qnhHCs7m4Ae5QuqfUD3Fg28-u) - Playlist of all the tutorials in French for Spark AR Studio
 ### Articles
 - [How to add instructions to an Instagram Filter](https://medium.com/@lukehurd/spark-ar-how-to-add-instructions-to-an-instagram-filter-f0aef09d52b) - Using the Patch Editor to control Instructions within an effect.
 - [Recreating Cigarette Heaven Using Particle Systems in Spark AR Studio](https://medium.com/@leemartin/recreating-mac-demarcos-cigarette-heaven-in-spark-ar-6c959b86f36e).
